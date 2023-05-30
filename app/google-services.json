@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402006485097",
+    "project_id": "mydiplom-taxi-1454b",
+    "storage_bucket": "mydiplom-taxi-1454b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402006485097:android:6cc44d1b271e0bcefc1af8",
+        "android_client_info": {
+          "package_name": "com.example.mydiplom_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402006485097-td4niarnf0r00cp631skvp6n1b77a25i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvN_6Wp_u6xum1oH62QPhIMppGaiaAk_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402006485097-td4niarnf0r00cp631skvp6n1b77a25i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
